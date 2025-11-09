@@ -95,7 +95,7 @@ st.markdown("""
 st.markdown(
     """
     <h1 style='text-align: center; color: #4B8BBE; font-size: 3rem;'>
-        ChatGroq RAG Assistant
+        Hugging Face Documentation Assistant
     </h1>
     """,
     unsafe_allow_html=True
@@ -131,3 +131,4 @@ st.markdown(
     "</p>",
     unsafe_allow_html=True
 )
+
