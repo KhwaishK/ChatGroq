@@ -1,4 +1,4 @@
-# 🤖 ChatGroq RAG Assistant  
+# 🤖 Hugging Face Documentation Assistant  
 
 ### 🔗 Live Demo  
 👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/KhwaishK/ChatGroq_RAG_Assistant)
