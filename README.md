@@ -6,7 +6,7 @@
 ---
 
 ### 🧠 Overview  
-**ChatGroq RAG Assistant** is an AI-powered chatbot that uses **Retrieval-Augmented Generation (RAG)** to answer questions based on **Hugging Face documentation**.  
+**Hugging Face Documentation Assistant** is an AI-powered chatbot that uses **Retrieval-Augmented Generation (RAG)** to answer questions based on **Hugging Face documentation**.  
 Built using **LangChain**, **Streamlit**, and **Groq API**, it performs semantic search with **FAISS** and **Hugging Face embeddings** to deliver accurate, context-aware responses.  
 
 ---
